@@ -11,6 +11,9 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
+Screenshot
+<p align="center"> <img src="public/weatherApp.png" alt="Weather App Screenshot" width="50%"> </p>
+
 Weather App
 A responsive weather application built with React and Vite, fetching live weather data from the OpenWeatherMap API. Users can search for any city to view real-time weather conditions including temperature, humidity, and wind speed.
 
@@ -63,4 +66,3 @@ Deployment
 This project is deployed using GitHub Pages.
 Live Demo: https://hieunguyen601.github.io/Weather-App-React-Project/
 
-Screenshots
