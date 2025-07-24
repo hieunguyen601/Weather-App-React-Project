@@ -1,16 +1,15 @@
 {
-  "homepage": "https://github.com/hieunguyen601/Weather-App-React",
+  "homepage": "https://hieunguyen601.github.io/Weather-App-React-Project",
   "name": "weather-app-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
